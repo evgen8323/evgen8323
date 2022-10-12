@@ -3,7 +3,7 @@ My name is Evgeny.
 
 - 🔭 I’m currently in searching of my new data science job.
 
-### Connect with me via:
+Connect with me via:
 
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
