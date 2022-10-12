@@ -3,7 +3,10 @@ My name is Evgeny.
 
 - 🔭 I’m currently in searching of my new data science job.
 
-My contacts
+My contacts:
+
+[<img align="left" alt="evgen8323 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!--
 **evgen8323/evgen8323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
