@@ -5,13 +5,14 @@ My name is Evgeny.
 
 ### My contacts:
 
-[<img align="left" alt="evgen8323 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-<br />
+
+
+[linkedin]: https://www.linkedin.com/in/evgen8323/
+[telegram]: https://t.me/evgen8323
+
 <!--
 **evgen8323/evgen8323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
