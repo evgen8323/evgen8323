@@ -1,8 +1,6 @@
 ### Hi there 👋
 My name is Evgeny.
 
-- 🔭 I’m currently in searching of my new data science job.
-
 <br />
 <br />
 
